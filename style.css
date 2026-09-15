@@ -111,3 +111,6 @@
 
 @media(max-width:700px){.header{height:112px;background:linear-gradient(180deg,rgba(10,12,12,.98) 0%,rgba(10,12,12,.88) 35%,rgba(10,12,12,.48) 68%,rgba(10,12,12,0) 100%);backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:0}.header nav{background:transparent;backdrop-filter:none;-webkit-backdrop-filter:none}}
 
+
+@media(max-width:700px){.closing-image.is-cutout{height:520px;background:#111}.closing-image.is-cutout img{width:100%;height:100%;max-width:none;object-fit:cover;object-position:50% 34%;padding:0;transform:none}}
+
