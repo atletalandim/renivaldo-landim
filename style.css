@@ -111,6 +111,3 @@
 
 @media(max-width:700px){.header{background:transparent}.hero-shade{background:linear-gradient(180deg,rgba(10,12,12,.98) 0%,rgba(10,12,12,.92) 18%,rgba(10,12,12,.68) 34%,rgba(10,12,12,.28) 52%,rgba(10,12,12,0) 72%),linear-gradient(0deg,#101410 0%,rgba(16,20,16,.8) 18%,transparent 48%)}.hero-photo{-webkit-mask-image:none;mask-image:none}}
 
-
-@media(max-width:700px){.hero-shade{background:linear-gradient(180deg,rgba(10,12,12,.97) 0%,rgba(10,12,12,.86) 12%,rgba(10,12,12,.5) 22%,rgba(10,12,12,.12) 32%,rgba(10,12,12,0) 40%),linear-gradient(0deg,rgba(16,20,16,.72) 0%,rgba(16,20,16,.18) 20%,transparent 35%)}}
-
