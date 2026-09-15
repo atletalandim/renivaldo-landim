@@ -102,3 +102,6 @@
 /* Ajuste mobile: capa mais harmoniosa e CTA sempre visível */
 @media(max-width:700px){.hero{height:auto;min-height:100svh;padding-bottom:28px}.hero-content{padding-top:300px;padding-bottom:36px}.hero h1{font-size:clamp(3.05rem,13.2vw,4.8rem);line-height:.94;letter-spacing:-.02em}.hero-description{margin:18px 0 20px;line-height:1.5}.hero-content>.button{min-height:50px}.hero-photo{height:67%}}
 
+
+@media(max-width:700px){.hero-photo img{object-position:56% 0%;}.hero-photo{height:69%;}}
+
