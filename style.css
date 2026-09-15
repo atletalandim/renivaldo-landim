@@ -98,3 +98,7 @@
 @media(max-width:700px){.header{background:linear-gradient(180deg,rgba(10,12,12,.92) 0%,rgba(10,12,12,.72) 55%,rgba(10,12,12,0) 100%);border-bottom:0;backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}.header .brand-logo{mix-blend-mode:screen;background:transparent}.header .wordmark{background:transparent}.header nav{background:rgba(10,12,12,.38);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}}
 
 @media(max-width:700px){.header{height:74px;padding-top:4px;background:linear-gradient(180deg,rgba(10,12,12,.82) 0%,rgba(10,12,12,.42) 62%,rgba(10,12,12,0) 100%)}.hero-photo img{object-position:56% 10%}.hero-content{padding-top:350px}}
+
+/* Ajuste mobile: capa mais harmoniosa e CTA sempre visível */
+@media(max-width:700px){.hero{height:auto;min-height:100svh;padding-bottom:28px}.hero-content{padding-top:300px;padding-bottom:36px}.hero h1{font-size:clamp(3.05rem,13.2vw,4.8rem);line-height:.94;letter-spacing:-.02em}.hero-description{margin:18px 0 20px;line-height:1.5}.hero-content>.button{min-height:50px}.hero-photo{height:67%}}
+
